@@ -1,0 +1,5 @@
+
+# NCU sign for [username]
+# m     h       date    mon     week    command
+  55    09      *       *       *       ncu-sign signin [student_number] [password] [project_code]
+  05    19      *       *       *       ncu-sign signout [student_number] [password] 0

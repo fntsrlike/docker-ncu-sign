@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm --name="ncu-sign" ncu-sign:latest /srv/ncu_sign/delay_execute.sh  $1 $2 $3 $4
